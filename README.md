@@ -1,5 +1,5 @@
 
-KFC Website link : https://660bd4df137cafaee911a726--soft-palmier-752213.netlify.app/
+KFC Website deployed link : https://660bd8fd162972b194133b16--merry-mooncake-df1b3f.netlify.app/
 This repository contains the code for a website designed for KFC (Kentucky Fried Chicken). Below you'll find a breakdown of the files and structure of the project.
 
 Files
