@@ -1,5 +1,5 @@
 
-KFC Website Readme
+KFC Website link : https://660bd4df137cafaee911a726--soft-palmier-752213.netlify.app/
 This repository contains the code for a website designed for KFC (Kentucky Fried Chicken). Below you'll find a breakdown of the files and structure of the project.
 
 Files
